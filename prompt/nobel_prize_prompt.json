@@ -1,0 +1,15 @@
+{
+    "name": null,
+    "input_variables": [
+        "name"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "What year did {name} win the Nobel Prize?",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
